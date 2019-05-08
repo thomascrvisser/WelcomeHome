@@ -4,7 +4,7 @@ Tired of looking for BYU-Approved housing by sifting through websites of differe
  
 ## Business
 
-This service would be contracted and funded by BYU. Any housing that wants to be BYU approved needs to go through us.
+This service would be contracted and funded by BYU. Any housing that wants to be BYU approved needs to go through us. Could potentially charge apartments/houses a fee to be shown on this list.
  
 ## Legal
 
