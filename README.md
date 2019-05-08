@@ -8,7 +8,7 @@ This service would be contracted and funded by BYU. Any housing that wants to be
  
 ## Legal
 
-Ideally, Welcome Home would be owned and funded by BYU. It would be closed source all of which would belong to BYU and follow their privacy and copyright laws.
+Ideally, WelcomeHome would be owned and funded by BYU. It would be closed source all of which would belong to BYU and follow their privacy and copyright laws.
  
 ## Technical
 
